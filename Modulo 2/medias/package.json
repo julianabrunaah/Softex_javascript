@@ -1,0 +1,18 @@
+{
+  "name": "medias",
+  "version": "1.0.0",
+  "description": "Calcular media",
+  "main": "index.js",
+  "scripts": {
+    "test": "ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/julianabrunaah/Sftex_javascript/blob/main/Modulo%202/media.js"
+  },
+  "keywords": [
+    "media"
+  ],
+  "author": "Juliana BrunaH",
+  "license": "ISC"
+}
