@@ -8,11 +8,11 @@ dadosConta = function dadosConta(){
 }
 saqueConta = function saqueConta(){
     Banco.saldo -= 200
-    console.log("Saque realizado com sucesso! \nSaldo atual " +Banco.saldo);
+    console.log("Saque no valor de R$200,00 realizado com sucesso! \nSaldo atual " +Banco.saldo);
 }
 depositoConta = function depositoConta(){
     Banco.saldo += 153
-    console.log("Deposito realizado com sucesso! \nSaldo atual " +Banco.saldo);
+    console.log("Deposito no valor de R$153,00 realizado com sucesso! \nSaldo atual " +Banco.saldo);
 }
 
 dadosConta()
